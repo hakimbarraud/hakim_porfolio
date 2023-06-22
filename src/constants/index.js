@@ -11,9 +11,6 @@ import {
   tailwind,
   git,
   figma,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
   logof,
   logoODW,
@@ -23,6 +20,9 @@ import {
   materialui,
   reactquery,
   vscode,
+  shoppingHub,
+  vanHub,
+  gameHub,
 } from "../assets";
 
 export const navLinks = [
@@ -204,67 +204,83 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Shopping List",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Une application web qui permet d'ajouter, de consulter, de modifier et de supprimer des articles sur sa liste de course. Une solution idéale pour ceux qui ne veulent pas passer par le papier.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "tailwindcss",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "crud",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: shoppingHub,
+    source_code_link: "https://github.com/hakimbarraud/shopping-hub",
   },
   {
-    name: "Job IT",
+    name: "Van Life",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Une mini application web qui permet de louer des vans pour partir en week-end ou en vacances. Les users ont la possibilité de naviguer sur plusieurs pages et peuvent également trier les vans en fonction de leurs exigences.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "react-router",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "tailwindcss",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "data-loader",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Suspense",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: vanHub,
+    source_code_link: "https://github.com/hakimbarraud/van-life-app",
   },
   {
-    name: "Trip Guide",
+    name: "Game Discovery",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "La meilleure application web pour être à l'affût des meilleurs jeux du moment. Les utilisateurs ont la possibilité de trier les jeux par genre et/ou par plateforme. Ils peuvent également rechercher un jeu directement dans la barre de recherche. Les performances sont optimisées avec du caching et la limitation des requêtes au serveur grâce à l'importation des datas statics.",
     tags: [
       {
-        name: "nextjs",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "typescript",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "react-query",
         color: "pink-text-gradient",
       },
+      {
+        name: "axios",
+        color: "green-text-gradient",
+      },
+      {
+        name: "chakraui",
+        color: "blue-text-gradient",
+      },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: gameHub,
+    source_code_link: "https://github.com/hakimbarraud/game-hub",
   },
 ];
 

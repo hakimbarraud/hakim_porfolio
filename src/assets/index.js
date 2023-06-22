@@ -38,6 +38,9 @@ import logoScrimba from "./company/logoScrimba.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import gameHub from "./gameHub.png";
+import shoppingHub from "./shoppingHub.png";
+import vanHub from "./vanHub.png";
 
 export {
   logo,
@@ -77,4 +80,7 @@ export {
   reactquery,
   vscode,
   router,
+  gameHub,
+  shoppingHub,
+  vanHub,
 };
