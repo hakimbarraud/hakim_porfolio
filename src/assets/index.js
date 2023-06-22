@@ -25,6 +25,10 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import logof from "./company/logof.png";
+import logoiut from "./company/logoiut.png";
+import logoODW from "./company/logoODW.png";
+import logoScrimba from "./company/logoScrimba.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -59,4 +63,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  logoODW,
+  logoScrimba,
+  logof,
+  logoiut,
 };
