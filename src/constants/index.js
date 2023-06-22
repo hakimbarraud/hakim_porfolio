@@ -178,27 +178,24 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Hakim a fait preuve d'une grande implication et du sérieux durant son stage. Sa passion pour le web et le SEO ont été une grande valeur ajoutée à l'agence. Je ne peux que vous le recommander.",
+    name: "kandioura Haidara",
+    designation: "Chef de projet SEO",
+    company: "Agence ODW",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Hakim a su se démarquer par son autonomie et sa rigeur au cours de son stage. Dommage que l'agence n'ait pas de team dev sinon on l'aurait gardé.",
+    name: "Alexandre Vernier",
+    designation: "Gérant",
+    company: "Agence ODW",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Hakim s'est montré très impliqué dans la refonte de notre site web, à la mise en place des pages responsives et à l'augmentation du traffic de notre site web dès sa prise de poste !",
+    name: "Marc Vernier",
+    designation: "Gérant",
+    company: "Marc Vernier Immobilier",
   },
 ];
 
