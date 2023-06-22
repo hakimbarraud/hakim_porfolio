@@ -20,6 +20,11 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import chackra from "./tech/chackra.jpeg";
+import materialui from "./tech/materialui.png";
+import reactquery from "./tech/reactquery.png";
+import vscode from "./tech/vscode.png";
+import router from "./tech/router.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -67,4 +72,9 @@ export {
   logoScrimba,
   logof,
   logoiut,
+  chackra,
+  materialui,
+  reactquery,
+  vscode,
+  router,
 };

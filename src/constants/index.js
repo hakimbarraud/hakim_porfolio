@@ -8,17 +8,9 @@ import {
   html,
   css,
   reactjs,
-  redux,
   tailwind,
-  nodejs,
-  mongodb,
   git,
   figma,
-  docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
   carrent,
   jobit,
   tripguide,
@@ -27,6 +19,10 @@ import {
   logoODW,
   logoScrimba,
   logoiut,
+  chackra,
+  materialui,
+  reactquery,
+  vscode,
 } from "../assets";
 
 export const navLinks = [
@@ -85,20 +81,8 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
     name: "Tailwind CSS",
     icon: tailwind,
-  },
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
   },
   {
     name: "Three JS",
@@ -113,8 +97,20 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "chackra",
+    icon: chackra,
+  },
+  {
+    name: "materialui",
+    icon: materialui,
+  },
+  {
+    name: "reactquery",
+    icon: reactquery,
+  },
+  {
+    name: "vscode",
+    icon: vscode,
   },
 ];
 
