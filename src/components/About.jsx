@@ -47,7 +47,7 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         Je suis un développeur front-end qualifié avec de l'expérience en HTML,
-        CSS et JavaScript ainsi qu'une expertise dans le framework React et son
+        CSS et JavaScript ainsi qu'une expertise dans la librairie React et son
         écosystème. J'apprends très vite et j'aime collaborer étroitement avec
         les users et ma team pour créer des solutions efficaces, évolutives et
         conviviales qui résolvent des problèmes réels. J'espère pouvoir avoir la
